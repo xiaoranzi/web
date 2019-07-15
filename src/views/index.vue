@@ -52,14 +52,7 @@
             </el-breadcrumb>
         </div> -->
         <!--左侧组件-->
-        
-        <!-- <div class="aside">
-            <el-tabs :tab-position="tabPosition" style="height: 200px;">
-                <el-tab-pane label="我的考勤">
-                    <router-view></router-view>
-                </el-tab-pane>
-            </el-tabs>
-        </div> -->
+        <!--这是没用的东西-->
     </div>
 </template>
 <script>
